@@ -1,0 +1,15 @@
+{
+  "name": "playing-card-api",
+  "version": "1.0.0",
+  "description": "A simple REST API for managing a collection of playing cards using Express.js.",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
